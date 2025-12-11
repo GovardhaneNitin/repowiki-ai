@@ -1,0 +1,5 @@
+{
+  "name": "RepoWiki AI",
+  "description": "Instant documentation generator for GitHub repositories using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
